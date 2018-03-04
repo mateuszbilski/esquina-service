@@ -1,0 +1,7 @@
+/target/
+/.settings/
+/.project
+/.classpath
+/webapps/esquina.war
+/deploy.bat
+/Start Tomcat.lnk

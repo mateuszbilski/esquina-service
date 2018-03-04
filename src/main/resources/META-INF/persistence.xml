@@ -1,0 +1,16 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="1.0">
+	<persistence-unit name="esquinaPU">
+		<!-- Fill with good ideas -->
+		<class>com.squeezedlemon.esquina.service.entity.Account</class>
+		<class>com.squeezedlemon.esquina.service.entity.Address</class>
+		<class>com.squeezedlemon.esquina.service.entity.Checkin</class>
+		<class>com.squeezedlemon.esquina.service.entity.Follower</class>
+		<class>com.squeezedlemon.esquina.service.entity.LangCode</class>
+		<class>com.squeezedlemon.esquina.service.entity.Location</class>
+		<class>com.squeezedlemon.esquina.service.entity.LocationDescription</class>
+		<class>com.squeezedlemon.esquina.service.entity.Tag</class>
+		<class>com.squeezedlemon.esquina.service.entity.TagTranslation</class>
+		<class>com.squeezedlemon.esquina.service.entity.Track</class>
+		<class>com.squeezedlemon.esquina.service.entity.User</class>	
+	</persistence-unit>
+</persistence>
